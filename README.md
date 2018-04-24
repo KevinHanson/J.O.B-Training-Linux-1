@@ -1,4 +1,4 @@
-# J.O.B-Training-Linux File Commands Assignment
+# Linux File Commands Assignment
 
 ## This is the first online assignment for the Linux commands training module and in this assignment you will clone this repository to your local computer by doing the following:
 1. click the fork button
@@ -82,4 +82,4 @@ In a terminal window practice the general regular expression parser command by t
 6. Now type the command ```grep -in 'it' * > grep.txt``` and press enter
   * note that grep has searched every file in the current directory for the word it and returned output showing the file and line number it found it on
 
-## You have now completed the first online exercise for Linux commands. You will now be taken back to the Jump on Board website to begin the next section regarding system commands. Please return to the <a href="https://kevinhanson.github.io/J.O.B.-Jump-On-Board#system" target="_blank">Linux Commands Course Website</a> to continue to the next section.
+## You have now completed the online exercise for Linux commands. Please return to the course website for further instruction.
