@@ -1,0 +1,3 @@
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/disk1                         465G   33G  433G   7% /
+localhost:/Zkj3DlU2JZ3GuNK-fTSpp3  465G  465G     0 100% /Volumes/MobileBackups
